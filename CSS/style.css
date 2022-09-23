@@ -26,7 +26,7 @@ body {
     text-align: right;
     font-size: 35px;
     word-wrap: break-word;
-    border-bottom: 1px solid #36837b;
+    border-bottom: 1px solid #50d35b;
 }
 
 table td {
@@ -46,32 +46,34 @@ table td {
 }
 
 .btn:hover {
-    background-color: #162f3b;
+    background-color: #8eb898c2;
 }
 
 .ac {
     width: 106px;
-    background-color: #1b7269;
+    background-color: #50d35b;
+    font-weight: bold;
 }
 
 .ac:hover {
-    background-color: #228f84;
+    background-color: #9ad49fc4;
 }
 
 .special {
-    background-color: #228f84;
+    background-color: #3b6947;
 }
 
 .special:hover {
-    background-color: #18646b;
+    background-color: #8eb898c2;
 }
 
 .equal {
     width: 106px;
-    background-color: #1b7269;
+    background-color: #50d35b;
+    font-weight: bold;
 }
 
 .equal:hover {
-    background-color: #25968a;
+    background-color: #9ad49fc4;
 
 }
