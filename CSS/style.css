@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #162f3b
+    background: #727c81
 }
 
 .calculator {
@@ -26,7 +26,7 @@ body {
     text-align: right;
     font-size: 35px;
     word-wrap: break-word;
-    border-bottom: 1px solid #25968a;
+    border-bottom: 1px solid #36837b;
 }
 
 table td {
