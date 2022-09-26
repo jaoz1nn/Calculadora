@@ -1,5 +1,5 @@
-const resultado = document.querySelector(' .result ');
-const confirmar = document.querySelector(' .equal ');
+const resultado = document.querySelector('.result');
+const confirmar = document.querySelector('.equal');
 
 function insert(valor) {
     resultado.innerHTML += valor;
